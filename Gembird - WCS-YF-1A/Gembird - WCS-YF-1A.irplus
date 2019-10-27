@@ -1,0 +1,22 @@
+<irplus>
+<device manufacturer="Gembird" model="WCS-YF-1A" columns="12" format="WINLIRC_SPACEENC" toggle-bit-pos="0" one-pulse="550" one-space="1650" zero-pulse="550" zero-space="550" header-pulse="8800" header-space="4400" gap-space="38500" gap-pulse="550" bits="32" pre-bits="32" scaleRatio="1.5">
+<button label="&#1045541;" labelSize="24.0" span="6" backgroundColor="FF9E0000">0x7F3AC5</button>
+<button label="MUTE" labelSize="24.0" span="6">0x7F827D</button>
+<button label="FRONT +" labelSize="8.0" span="3">0x7F1AE5</button>
+<button label="CENTRAL +" labelSize="8.0" span="3">0x7FA25D</button>
+<button label="REAR +" labelSize="8.0" span="3">0x7F9A65</button>
+<button label="Woofer +" labelSize="8.0" span="3">0x7F22DD</button>
+<button label="FRONT -" labelSize="8.0" span="3">0x7F0AF5</button>
+<button label="CENTRAL - " labelSize="8.0" span="3">0x7FB24D</button>
+<button label="REAR - " labelSize="8.0" span="3">0x7F8A75</button>
+<button label="Woofer - " labelSize="8.0" span="3">0x7F32CD</button>
+<button label="INPUT" labelSize="24.0" span="6" backgroundColor="FF4242C6">0x7F08F7</button>
+<button label="OUTPUT" labelSize="24.0" span="6" backgroundColor="FF4242C6">0x7F48B7</button>
+<button label="BASS - " labelSize="16.0" span="6">0x7F18E7</button>
+<button label="BASS +" labelSize="16.0" span="6">0x7F58A7</button>
+<button label="TREBLE - " labelSize="16.0" span="6">0x7F28D7</button>
+<button label="TREBLE +" labelSize="16.0" span="6">0x7F6897</button>
+<button label="VOL - " labelSize="32.0" span="6" backgroundColor="FF429342">0x7F38C7</button>
+<button label="VOL +" labelSize="32.0" span="6" backgroundColor="FF429342">0x7F7887</button>
+</device>
+</irplus>
